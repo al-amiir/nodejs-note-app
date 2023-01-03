@@ -1,0 +1,7 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "yargs": "^17.6.2"
+  }
+}
